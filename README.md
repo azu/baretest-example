@@ -6,11 +6,11 @@ baretest example
 
 Install with [npm](https://www.npmjs.com/):
 
-    npm install baretest-example
+    npm install
 
 ## Usage
 
-- [ ] Write usage instructions
+    npm test
 
 ## Changelog
 
